@@ -78,4 +78,4 @@ while running:
     else:
         print("Invalid input!\nGoodbye")
         sleep(1)
-        break
+        
