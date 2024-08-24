@@ -76,6 +76,6 @@ while running:
     elif play_again == "n" or play_again == "no":
         running = False
     else:
-        print("Invalid input!\nGoodbye")
+        print("Invalid input!")
         sleep(1)
         
